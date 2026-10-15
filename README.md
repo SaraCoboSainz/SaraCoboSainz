@@ -43,8 +43,7 @@ I work with reporting, Excel, Power Query, Power BI and Python automations in a 
 
 #### Data & Data bases
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"  width="48" height="48" alt="PostgreSQL Logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"  width="48" height="48" alt="MySQL Logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"  width="48" height="48" alt="PostgreSQL Logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"  width="48" height="48" alt="MySQL Logo" />
           
           
 - SQL
