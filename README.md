@@ -69,9 +69,7 @@ I work with reporting, Excel, Power Query, Power BI and Python automations in a 
 
 #### Tools 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="48" height="48" alt="GitLogo"  />        
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub Logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg" width="48" height="48" alt="GitHub Code Logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="48" height="48" alt="GitLogo"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub Logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg" width="48" height="48" alt="GitHub Code Logo"  />
           
 - Git and GitHub
 - SharePoint and Microsoft Teams
@@ -83,10 +81,7 @@ I work with reporting, Excel, Power Query, Power BI and Python automations in a 
 <!-- Email -->
 <a href="mailto: sara.cobo.sainz.gut@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-CONTACT_ME-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Contact Me" />
-</a>
-
-<!-- LinkedIn -->
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-PROFILE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sara-cobo-sainz-6bba63296)
+</a> <!-- LinkedIn --> [![LinkedIn](https://img.shields.io/badge/LINKEDIN-PROFILE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sara-cobo-sainz-6bba63296)
 
 
 
