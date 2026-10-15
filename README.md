@@ -43,6 +43,7 @@ I work with reporting, Excel, Power Query, Power BI and Python automations in a 
 
 #### Data & Data bases
 
+
 - SQL
 - Postgre SQL
 - pgAdmin
@@ -52,6 +53,8 @@ I work with reporting, Excel, Power Query, Power BI and Python automations in a 
 - CSV and structured data sources
 
 #### Data Engineering & Analytics
+
+
 
 - Microsoft Fabric 
 - Lakehouse architecture
@@ -63,6 +66,7 @@ I work with reporting, Excel, Power Query, Power BI and Python automations in a 
 - Python for automations (RPA)
 
 #### Tools 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub Logo" />
 
 - Git and GitHub
 - SharePoint and Microsoft Teams
