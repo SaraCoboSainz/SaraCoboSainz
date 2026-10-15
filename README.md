@@ -43,7 +43,10 @@ I work with reporting, Excel, Power Query, Power BI and Python automations in a 
 
 #### Data & Data bases
 
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+          
+          
 - SQL
 - Postgre SQL
 - pgAdmin
@@ -54,8 +57,8 @@ I work with reporting, Excel, Power Query, Power BI and Python automations in a 
 
 #### Data Engineering & Analytics
 
-
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+        
 - Microsoft Fabric 
 - Lakehouse architecture
 - Spark Notebooks
@@ -66,12 +69,26 @@ I work with reporting, Excel, Power Query, Power BI and Python automations in a 
 - Python for automations (RPA)
 
 #### Tools 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub Logo" />
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />         
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub Logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg" />
+          
 - Git and GitHub
 - SharePoint and Microsoft Teams
 - Microsoft Word technical documentation
 - Excel VBA and macros
+
+### Let's connect
+
+<!-- Email -->
+<a href="mailto: sara.cobo.sainz.gut@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-CONTACT_ME-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Contact Me" />
+</a>
+
+<!-- LinkedIn -->
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-PROFILE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sara-cobo-sainz-6bba63296)
+
 
 
 <!--
