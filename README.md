@@ -81,8 +81,9 @@ I work with reporting, Excel, Power Query, Power BI and Python automations in a 
 <!-- Email -->
 <a href="mailto: sara.cobo.sainz.gut@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-CONTACT_ME-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Contact Me" />
-</a> <!-- LinkedIn --> [![LinkedIn](https://img.shields.io/badge/LINKEDIN-PROFILE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sara-cobo-sainz-6bba63296)
-
+</a> 
+<!-- LinkedIn --> 
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-PROFILE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sara-cobo-sainz-6bba63296)
 
 
 <!--
