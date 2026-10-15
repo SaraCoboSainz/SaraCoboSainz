@@ -43,8 +43,8 @@ I work with reporting, Excel, Power Query, Power BI and Python automations in a 
 
 #### Data & Data bases
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"  width="48" height="48" alt="PostgreSQL Logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"  width="48" height="48" alt="MySQL Logo" />
           
           
 - SQL
@@ -57,7 +57,7 @@ I work with reporting, Excel, Power Query, Power BI and Python automations in a 
 
 #### Data Engineering & Analytics
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"  width="48" height="48" alt="Python Logo" />
         
 - Microsoft Fabric 
 - Lakehouse architecture
@@ -70,9 +70,9 @@ I work with reporting, Excel, Power Query, Power BI and Python automations in a 
 
 #### Tools 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />         
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="48" height="48" alt="GitLogo"  />        
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub Logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg" width="48" height="48" alt="GitHub Code Logo"  />
           
 - Git and GitHub
 - SharePoint and Microsoft Teams
