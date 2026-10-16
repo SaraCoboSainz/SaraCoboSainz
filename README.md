@@ -26,9 +26,7 @@ I work with reporting, Excel, Power Query, Power BI and Python automations in a 
 ### ⚙️ Tech Stack
 
 #### Business Intelligence
-<img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/d2ed128e-2eb2-4c4b-81e0-fb74ff72e815" />
-<img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/7af6a221-3e63-4ae8-81b9-24da8d92b8c1" />
-<img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/13b321c3-030e-41b9-a5bb-ee74773c3446" />
+<img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/d2ed128e-2eb2-4c4b-81e0-fb74ff72e815" /> <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/7af6a221-3e63-4ae8-81b9-24da8d92b8c1" /> <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/13b321c3-030e-41b9-a5bb-ee74773c3446" />
 
 
 - Power BI Desktop and Power BI Service
